@@ -9,3 +9,6 @@ edition = "2021"
 async-std = "1.12.0"
 tokio = "1.19.2"
 csv-async = "1.2.4"
+
+[dev-dependencies]
+rustfmt = "0.10.0"
